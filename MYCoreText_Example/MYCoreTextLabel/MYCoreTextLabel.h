@@ -7,7 +7,7 @@
 
 /**
  
- Github地址 : https://github.com/coderMyy/MYCoreTextLabel 求Star , Fork .....
+ Github地址 : https://github.com/AlanZhangQ/CoreTextLabel 求Star , Fork .....
  博客地址    : https://blog.csdn.net/weixin_42433480  , 偶尔会记录一下学习的东西 .
  
 */
