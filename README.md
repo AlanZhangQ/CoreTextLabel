@@ -13,13 +13,6 @@
 </p>
 
 ---
-
-最新更新日期 : 2017 . 6 . 22     对整个结构进行调整 , 使用更灵活 , 自定义程度更高 . 需要什么样的链接就匹配该链接 , 提高了执行效率 . 
-</p>
-</p>
-</p>
-
-聊天气泡效果 , 请参照 <a>https://github.com/coderMyy/CocoaAsyncSocket_Demo<a/>
 </p>
 </p>
 补充 : 关于表情和文字混排时间距问题 , 有朋友提出不能设置间距 , 出现了紧挨着的效果 . 对此 , 此label中只有设置文字间距的属性,并没有设置图片和文字之间间距的属性 . 我个人公司的项目 , 是UI在切表情图的时候 , 已经加上了间距 . 可以解决该问题 . 代码中设置 , 后面会补充上去
@@ -198,7 +191,6 @@
     self.coretextLabel.frame = CGRectMake(0, 20, size.width, size.height);
     [self.view addSubviews:coretextLabel];
 ```
-![image](https://github.com/coderMyy/MYCoreTextLabel/blob/master/examplePic/detailGIF.gif)
 </p>
 </p>
 </p>
