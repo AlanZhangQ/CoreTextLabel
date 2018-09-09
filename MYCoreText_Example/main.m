@@ -2,8 +2,8 @@
 //  main.m
 //  MYCoreText_Example
 //
-//  Created by 孟遥 on 2017/2/17.
-//  Copyright © 2017年 mengyao. All rights reserved.
+//  Created by Alan on 2017/2/17.
+//  Copyright © 2017年 Alan. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
